@@ -1,0 +1,28 @@
+body {
+  background: #45474B;
+}
+
+.py-3 {
+  background: #F4CE14;
+  border-radius: 50px;
+  box-shadow: 20px 20px;
+}
+
+.bs-icon-xl.bs-icon-circle.bs-icon-primary.bs-icon.lg {
+  background: #45474B;
+}
+
+.logo {
+  margin: auto;
+  display: flex;
+  margin-top: 40px;
+  margin-bottom: 20px;
+  border: ridge;
+  border-width: 15px;
+  box-shadow: 5px 5px;
+}
+
+.container {
+  margin-bottom: 10%;
+}
+
