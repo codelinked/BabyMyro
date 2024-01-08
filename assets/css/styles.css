@@ -26,3 +26,9 @@ body {
   margin-bottom: 10%;
 }
 
+@media (min-width: 300px) {
+  .container {
+    margin-bottom: 70px;
+  }
+}
+
