@@ -1,5 +1,5 @@
 body {
-  background: ../img/bg.png;
+  background: ../img/bg.png!important;
 }
 
 .py-3 {
