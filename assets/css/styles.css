@@ -1,11 +1,10 @@
 body {
-  background: ./img/bg.png!important;
+  background: #45474B;
 }
 
 .py-3 {
-  background: #F4CE14;
+  background: linear-gradient(89.96deg, #2AFF07 -34.24%, #FFFA36 54.5%, #2AFF07 161.59%);
   border-radius: 50px;
-  box-shadow: 20px 20px;
 }
 
 .bs-icon-xl.bs-icon-circle.bs-icon-primary.bs-icon.lg {
